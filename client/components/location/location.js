@@ -1,0 +1,9 @@
+
+class Location{
+  constructor(){
+
+  }
+  getCurrentLocation(){
+    
+  }
+}
